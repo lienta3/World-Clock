@@ -41,6 +41,7 @@ function showTimeZone(event) {
     "A"
   )}</small></div>
 </div>
+<a href="index.html">Home Page</a>
 `;
 }
 
